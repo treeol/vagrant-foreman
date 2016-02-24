@@ -18,11 +18,11 @@ This will spawn a Ubuntu-Virtual-Machine and will install all needed tools & dep
 
 After the reboot, the Foreman-Installation has to be started manually with the following command:
 
-```foreman-installer --foreman-plugin-discovery-source-url=http://downloads.theforeman.org/discovery/releases/2.1/ --foreman-plugin-discovery-install-images=true```
+``` foreman-installer --foreman-plugin-discovery-source-url=http://downloads.theforeman.org/discovery/releases/2.1/ --foreman-plugin-discovery-install-images=true ```
 
 This command will install Foreman with the Discovery Plugin enabled. If you don't want that, just do the following command:
 
-```foreman-installer```
+``` foreman-installer ```
 
 This will take some time.
 
