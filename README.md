@@ -10,5 +10,5 @@ This is a small script which starts a VM in Virtualbox over Vagrant and installs
 
 #### How-To
 
-* Download the repo with ```$ git clone https://github.com/mamu-icc/vagrant-foreman.git```
-X
+* Download the repo with ```git clone https://github.com/mamu-icc/vagrant-foreman.git```
+
