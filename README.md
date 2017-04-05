@@ -1,6 +1,6 @@
 # Vagrant - Foreman
 
-This is a small script which starts a VM in Virtualbox over Vagrant and installs reqiurements and tools for foreman 1.10. 
+A Vagrant script which starts a VM in Virtualbox and installs reqiurements / tools for foreman 1.10. 
 
 #### Requirements 
 
